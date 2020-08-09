@@ -1,0 +1,9 @@
+C:\Users\Tony Tafur\Documents\Visual Studio 2015\Projects\Interfaces C#\Juego 3R\Juego 3R\bin\Debug\Juego 3R.exe.config
+C:\Users\Tony Tafur\Documents\Visual Studio 2015\Projects\Interfaces C#\Juego 3R\Juego 3R\bin\Debug\Juego 3R.exe
+C:\Users\Tony Tafur\Documents\Visual Studio 2015\Projects\Interfaces C#\Juego 3R\Juego 3R\bin\Debug\Juego 3R.pdb
+C:\Users\Tony Tafur\Documents\Visual Studio 2015\Projects\Interfaces C#\Juego 3R\Juego 3R\obj\Debug\Juego 3R.csprojResolveAssemblyReference.cache
+C:\Users\Tony Tafur\Documents\Visual Studio 2015\Projects\Interfaces C#\Juego 3R\Juego 3R\obj\Debug\Juego_3R.Properties.Resources.resources
+C:\Users\Tony Tafur\Documents\Visual Studio 2015\Projects\Interfaces C#\Juego 3R\Juego 3R\obj\Debug\Juego 3R.csproj.GenerateResource.Cache
+C:\Users\Tony Tafur\Documents\Visual Studio 2015\Projects\Interfaces C#\Juego 3R\Juego 3R\obj\Debug\Juego 3R.exe
+C:\Users\Tony Tafur\Documents\Visual Studio 2015\Projects\Interfaces C#\Juego 3R\Juego 3R\obj\Debug\Juego 3R.pdb
+C:\Users\Tony Tafur\Documents\Visual Studio 2015\Projects\Interfaces C#\Juego 3R\Juego 3R\obj\Debug\Juego_3R.GraficoJuego.resources
